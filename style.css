@@ -27,9 +27,10 @@ a {
 }
 .primary p{
   position: relative;
-  padding: 1em 2.5em;
-  display: inline-block;
-  left: 50%;transform: translate(-25%);
+    padding: 1em 2.5em;
+    display: inline-block;
+    left: 50%;
+    transform: translate(-50%);
 }
 .bg_white{
   background: #ffffff;
